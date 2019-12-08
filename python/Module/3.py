@@ -1,8 +1,5 @@
-def a():
-    return 'a'
+from choi import a as z
+import su as k
 
-def a():
-    return 'b'
-
-print(a())
-#fsdklk
+print(z())
+print(k.a())

@@ -1,2 +1,4 @@
 def a():
-    return 'b'
+    return 'a'
+
+print(a())
