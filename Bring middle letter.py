@@ -7,3 +7,4 @@ def solution(s):
         answer = s[int(a // 2)]
 
     return answer
+    #fsefd

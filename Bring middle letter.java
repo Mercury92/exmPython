@@ -16,5 +16,6 @@ class Solution {
         Solution s = new Solution();
         System.out.println(s.solution("power"));
         System.out.println(s.solution("test1234"));
+        #sdfefsd
     }
 }

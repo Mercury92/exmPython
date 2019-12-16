@@ -5,3 +5,4 @@ def solution(a,b):
     num = datetime.date(2016,a,b).weekday()
 
     return answer[num]
+    #sfefd
