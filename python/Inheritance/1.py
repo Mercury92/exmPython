@@ -13,6 +13,7 @@ class Class3(Class1):
 c3 = Class3()
 print(c3, c3.method1())
 print(c3, c3.method2())
+
 # instance x
 class Class2(object):
     def method1(self):
