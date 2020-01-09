@@ -1,6 +1,10 @@
 def solution(n):
-    answer = 0
-    for i in str(n):
-        answer += int(i)
+    # first
+    # answer = 0
+    # for i in str(n):
+    #     answer += int(i)
+    #
+    # return answer
 
-    return answer
+    # second
+    return eval("+".join(str(n)))
